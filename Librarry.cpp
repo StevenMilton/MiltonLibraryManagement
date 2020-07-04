@@ -10,7 +10,7 @@
 #include <fstream>
 #include <iomanip>
 
-#include "modules/classes.p"
+#include "modules/classes.cpp"
 
 using namespace std;
 
@@ -28,7 +28,7 @@ const string STU = "Students.txt";
 const string BOK = "Books.txt";
 const string ISS = "Issued.txt";
 
-#include "modules/functions.p"
+#include "modules/functions.cpp"
 
 int main()
 {
